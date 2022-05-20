@@ -1,0 +1,156 @@
+Date: 22/4/2022
+Time: 20:16
+Phone Number: +919804418408
+Message: Good Night
+--------------------
+Date: 22/4/2022
+Time: 20:17
+Phone Number: +916290103455
+Message: Good Night
+--------------------
+Date: 22/4/2022
+Time: 20:25
+Phone Number: +919804418408
+Message: Images/GoodNight.jpg
+--------------------
+Date: 22/4/2022
+Time: 20:26
+Phone Number: +916290103455
+Message: Images/GoodNight.jpg
+--------------------
+Date: 22/4/2022
+Time: 21:17
+Phone Number: +919804418408
+Image: D:\Projects\3.WhattsApp Broadcast\Images\GoodNight.jpg
+Caption: 
+--------------------
+Date: 22/4/2022
+Time: 21:17
+Phone Number: +916290103455
+Image: D:\Projects\3.WhattsApp Broadcast\Images\GoodNight.jpg
+Caption: 
+--------------------
+Date: 22/4/2022
+Time: 21:18
+Phone Number: +919804418408
+Image: D:\Projects\3.WhattsApp Broadcast\Images\GoodNight.jpg
+Caption: 
+--------------------
+Date: 22/4/2022
+Time: 21:18
+Phone Number: +916290103455
+Image: D:\Projects\3.WhattsApp Broadcast\Images\GoodNight.jpg
+Caption: 
+--------------------
+Date: 22/4/2022
+Time: 21:22
+Phone Number: +919804418408
+Image: D:\Projects\3.WhattsApp Broadcast\Images\GoodNight.jpg
+Caption: 
+--------------------
+Date: 22/4/2022
+Time: 21:22
+Phone Number: +916290103455
+Image: D:\Projects\3.WhattsApp Broadcast\Images\GoodNight.jpg
+Caption: 
+--------------------
+Date: 22/4/2022
+Time: 21:26
+Phone Number: +919804418408
+Image: D:\Projects\3.WhattsApp Broadcast\Images\GoodNight.jpg
+Caption: 
+--------------------
+Date: 22/4/2022
+Time: 21:26
+Phone Number: +916290103455
+Image: D:\Projects\3.WhattsApp Broadcast\Images\GoodNight.jpg
+Caption: 
+--------------------
+Date: 22/4/2022
+Time: 21:31
+Phone Number: +919804418408
+Image: D:\Projects\3.WhattsApp Broadcast\Images\GoodNight.jpg
+Caption: 
+--------------------
+Date: 22/4/2022
+Time: 21:31
+Phone Number: +916290103455
+Image: D:\Projects\3.WhattsApp Broadcast\Images\GoodNight.jpg
+Caption: 
+--------------------
+Date: 22/4/2022
+Time: 21:32
+Phone Number: +919804418408
+Image: D:\Projects\3.WhattsApp Broadcast\Images\GoodNight.jpg
+Caption: 
+--------------------
+Date: 20/5/2022
+Time: 20:7
+Phone Number: +919804418408'
+Message: sgstshtehrt
+--------------------
+Date: 20/5/2022
+Time: 20:8
+Phone Number: +916290103455'
+Message: sgstshtehrt
+--------------------
+Date: 20/5/2022
+Time: 20:11
+Phone Number: +919804418408'
+Message: Hhhhhhhh
+--------------------
+Date: 20/5/2022
+Time: 20:13
+Phone Number: +916290103455'
+Message: Hhhhhhhh
+--------------------
+Date: 20/5/2022
+Time: 20:17
+Phone Number: +919804418408'
+Message: ersrsdrtg
+--------------------
+Date: 20/5/2022
+Time: 20:18
+Phone Number: +916290103455'
+Message: ersrsdrtg
+--------------------
+Date: 20/5/2022
+Time: 20:20
+Phone Number: +919804418408'
+Message: abcdefghiji
+--------------------
+Date: 20/5/2022
+Time: 20:22
+Phone Number: +916290103455'
+Message: abcdefghiji
+--------------------
+Date: 20/5/2022
+Time: 20:24
+Phone Number: +919330310073'
+Message: abcdefghiji
+--------------------
+Date: 20/5/2022
+Time: 20:26
+Phone Number: +919631388756'
+Message: abcdefghiji
+--------------------
+Date: 20/5/2022
+Time: 20:29
+Phone Number: +919804418408'
+Message: Soory to everyone.. Previous one send by python experimentally
+--------------------
+Date: 20/5/2022
+Time: 20:30
+Phone Number: +916290103455'
+Message: Soory to everyone.. Previous one send by python experimentally
+--------------------
+Date: 20/5/2022
+Time: 20:31
+Phone Number: +919330310073'
+Message: Soory to everyone.. Previous one send by python experimentally
+--------------------
+Date: 20/5/2022
+Time: 20:32
+Phone Number: +919631388756'
+Message: Soory to everyone.. Previous one send by python experimentally
+--------------------
